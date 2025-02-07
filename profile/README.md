@@ -30,10 +30,10 @@
 
 ## 🔍 현재 진행 중인 활동들
 
-- ✍️ [dev-journal] - 개발 블로그 활성화를 목적으로 하는 꾸준한 포스팅 스터디
-- 📚 [React19 톺아보기] - React 19 공식문서를 통해 심도 깊은 토론이 가능한 스터디 
-- 📚 [시나브로 자바스크립트] - 인프런 강의 "시나브로 자바스크립트" 스터디
-- 📚 [coding-study-of-death] - 프론트엔드 지식 딥다이브 스터디
+- ✍️ [dev-journal](https://github.com/The-survivor-is-strong/dev-journal) - 개발 블로그 활성화를 목적으로 하는 꾸준한 포스팅 스터디
+- 📚 [react19](https://github.com/The-survivor-is-strong/react19) - React 19 공식문서를 통해 심도 깊은 토론이 가능한 스터디 
+- 📚 [sinabro-js](https://github.com/The-survivor-is-strong/.github/edit/main/profile/README.md) - 인프런 강의 "시나브로 자바스크립트" 스터디
+- 📚 [coding-study-of-death](https://github.com/The-survivor-is-strong/coding-study-of-death) - 프론트엔드 지식 딥다이브 스터디
 
 ## 📅 다가오는 활동들
 
