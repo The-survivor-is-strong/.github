@@ -32,13 +32,17 @@
 
 - ✍️ [dev-journal](https://github.com/The-survivor-is-strong/dev-journal) - 개발 블로그 활성화를 목적으로 하는 꾸준한 포스팅 스터디
 - 📚 [Frontend ShabuShabu](https://github.com/The-survivor-is-strong/front-shabushabu) - 프론트엔드를 중심으로 하지만, 꼭 그에만 국한되지 않고 다양한 분야를 함께 탐색해보는 스터디 
-- 📚 [sinabro-js](https://github.com/The-survivor-is-strong/sinabro-js) - 인프런 강의 "시나브로 자바스크립트" 스터디
+
 - 📚 [coding-study-of-death](https://github.com/The-survivor-is-strong/coding-study-of-death) - 프론트엔드 지식 딥다이브 스터디
 - 📚 [ssokssok](https://github.com/The-survivor-is-strong/ssokssok) - "쏙쏙 들어오는 함수형 코딩" 개발 도서 스터디
 
 ## 📅 다가오는 활동들
 
 - 기다리고 있어요...
+
+## 🏁 지난 활동들
+
+- 📚 [sinabro-js](https://github.com/The-survivor-is-strong/sinabro-js) - 인프런 강의 "시나브로 자바스크립트" 스터디
 
 ## 📢 Contact Us
 
